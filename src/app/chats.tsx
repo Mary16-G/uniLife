@@ -19,7 +19,7 @@ export default function ChatsScreen() {
 
           <View style={styles.bottomRow}>
             <Text style={styles.message} numberOfLines={1}>
-              ¿Ya terminaste la tarea de bases de datos?
+              ¿Ya terminaste la tarea de bases dtos?
             </Text>
 
             <View style={styles.badge}>
